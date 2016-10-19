@@ -1,0 +1,21 @@
+Reflexões, primeiro commit
+
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+- pela comparação do código pode-se encontrar o bug visualmente com mais facilidade.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+- salvando cada versão e montando um indice para acesso rapido
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+-pró: organização e entendimento, que é o objetivo do versionamento
+-contra: esquecimento, problema técnico.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+- porque eles estão relacionados.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+-usando
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+- realizar meus projetos de cabo a rabo e deixar para a posteridade
